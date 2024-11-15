@@ -1,5 +1,5 @@
 # Sentiment Analyzer Application 
-This project performs sentiment analysis on text data fetched from a given URL. It uses Python scripts for web scraping and sentiment analysis, and a Node.js server to handle requests and responses.
+This project performs sentiment analysis on text data written in the given text area. It uses Python script for sentiment analysis, and a Node.js server to handle requests and responses.
 
 
 ## Installation
