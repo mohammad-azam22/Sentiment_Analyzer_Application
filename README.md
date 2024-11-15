@@ -18,7 +18,6 @@ This project performs sentiment analysis on text data fetched from a given URL. 
 6. **Install Node.js dependencies**:
    ```
    npm install
-
 ## Usage
 
 1. Start the Node.js server:
