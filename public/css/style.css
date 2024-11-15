@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow: hidden;
+    background: linear-gradient(182deg, #73ffb4, #006718);
+}
+
+h1 {
+    padding: 1em;
+    height: 15vh;
+}
+
+.input {
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input textarea {
+    height: 75%;
+    width: 50%;
+    resize: none;
+    padding: 5px;
+    font-size: 2em;
+}
+
+.input button {
+    width: 10em;
+    height: 3em;
+    border-radius: 1.5em;
+}
+
+.output {
+    height: 45vh;
+    display: flex;
+    justify-content: center;
+}
+
+.output #output {
+    width: fit-content;
+    min-width: 2em;
+    height: 20%;
+    border: 1px solid #000;
+    padding: 5px;
+    text-align: center;
+    font-size: 2em;
+    background-color: #ffffff;
+}
